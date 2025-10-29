@@ -1,1 +1,21 @@
 @import "tailwindcss";
+
+/* Design tokens */
+:root{
+	--accent: #35A6C8;
+	--muted-border: #E5E7EB;
+	--success: #10B981;
+}
+
+/* Font stack requested by spec */
+body{
+	font-family: "Roboto","Inter",system-ui,"Segoe UI",Arial,sans-serif;
+	background-color: #f8fafc;
+}
+
+/* Small utility: focus-visible ring consistent with design */
+.focus-ring:focus-visible{
+	outline: none;
+	box-shadow: 0 0 0 3px rgba(16,185,129,0.15), 0 0 0 1px var(--accent);
+	border-radius: 0.375rem;
+}

@@ -1,0 +1,14 @@
+[
+  {"id":"p-1001","name":"Hydraulic Pump","category":"Parts","price":240,"image":"/assets/pump.jpg"},
+  {"id":"p-1002","name":"Brake Pads Set","category":"Maintenance","price":80,"image":"/assets/brake.jpg"},
+  {"id":"p-1003","name":"Air Filter","category":"Maintenance","price":25,"image":"/assets/filter.jpg"},
+  {"id":"p-1004","name":"Fuel Injector","category":"Parts","price":180,"image":"/assets/injector.jpg"},
+  {"id":"p-1005","name":"Synthetic Oil 5L","category":"Consumables","price":45,"image":"/assets/oil.jpg"},
+  {"id":"p-1006","name":"Coolant 10L","category":"Consumables","price":60,"image":"/assets/coolant.jpg"},
+  {"id":"p-1007","name":"Headlight Assembly","category":"Parts","price":120,"image":"/assets/headlight.jpg"},
+  {"id":"p-1008","name":"Brake Disc","category":"Parts","price":95,"image":"/assets/disc.jpg"},
+  {"id":"p-1009","name":"Wiper Blade","category":"Consumables","price":15,"image":"/assets/wiper.jpg"},
+  {"id":"p-1010","name":"Battery 12V","category":"Parts","price":150,"image":"/assets/battery.jpg"},
+  {"id":"p-1011","name":"Timing Belt","category":"Maintenance","price":210,"image":"/assets/belt.jpg"},
+  {"id":"p-1012","name":"Spark Plug Set","category":"Maintenance","price":35,"image":"/assets/spark.jpg"}
+]
